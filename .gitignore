@@ -1,0 +1,17 @@
+# GeoMet source data are not redistributed in this repository.
+data/raw/*
+!data/raw/.gitkeep
+
+# Source-derived row-level reports and visualized/grid data. Regenerate locally
+# with scripts/run_all.py after obtaining the source data.
+reports/*.json
+reports/*.svg
+outputs/*.svg
+outputs/*.csv
+
+# Local runtime and temporary work
+.venv/
+__pycache__/
+*.py[cod]
+work/
+.ipynb_checkpoints/

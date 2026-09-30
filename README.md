@@ -47,4 +47,3 @@ The search for richer collar/survey/interval data is documented in [public drill
 ## Citation
 
 Hoffimann, J. et al. (2022). *Modeling Geospatial Uncertainty of Geometallurgical Variables with Bayesian Models and Hilbert-Kriging*. DOI: [10.1007/s11004-022-10013-1](https://doi.org/10.1007/s11004-022-10013-1). Dataset: [GeoMet v4](https://doi.org/10.5281/zenodo.7051975).
-
